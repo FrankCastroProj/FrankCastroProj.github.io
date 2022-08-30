@@ -54,7 +54,7 @@ div.toolbar {
   margin-top: 60px;
   width: 100%;
   height: calc(100vh - 60px);
-  background-image: url(frankcastroproj.github.io/images/arcade.jpg);
+  background-image: url(/frankcastroproj.github.io/images/arcade.jpg);
   background-size: cover;
   display: flex;
   justify-content: center;
